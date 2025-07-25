@@ -49,6 +49,7 @@ Oracle 21c
 Oracle lietotājs ar tiesībām izveidot tabulas
 
 🧱 Komandas: //Atvērot projektu Visual Studio 2022 pēc klonēšanas ievadīt visas šīs komandas lai tiek izveidota datu bāze un varētu atvert swagger (ar f5 palīdzību) un lai crud operacijas sāktu strādāt ne tikai swagger bet arī no izveidotās React tīmekļa vietnes.
+
 Terminal
 Copy
 Edit
